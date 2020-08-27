@@ -1,6 +1,6 @@
 <?php
 
-namespace ElzoBrito;
+namespace elzobrito;
 
 class Download
 {

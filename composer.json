@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ElzoBrito\\": "src"
+            "elzobrito\\": "src"
         }
     }
 }
